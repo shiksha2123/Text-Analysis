@@ -1,4 +1,5 @@
 Microsoft Azure has a lot of powerful features, especially for large-scale enterprises.
 The cloud infrastructure is robust and the security measures are top-notch. 
-However, I found the interface quite complicated to navigate initially, and the pricing model is a bit confusing. I also experienced some downtime during high-traffic periods.
+However, I found the interface quite complicated to navigate initially, and the pricing model is a bit confusing. 
+I also experienced some downtime during high-traffic periods.
 But overall, it does the job well for our business.
