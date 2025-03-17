@@ -1,0 +1,3 @@
+Microsoft Azure ist eine mächtige Cloud-Plattform mit vielen Tools und Sicherheitsfunktionen.
+Die Integration in bestehende Systeme war jedoch schwieriger als erwartet und die Preise sind nicht immer transparent.
+Dennoch bietet Azure viele nützliche Funktionen, die unsere Anforderungen erfüllen.

@@ -1,0 +1,4 @@
+Microsoft Azure è una piattaforma solida con ottime capacità di gestione dei dati e sicurezza. 
+Tuttavia, la curva di apprendimento è piuttosto ripida e l'interfaccia utente non è così intuitiva. 
+Inoltre, i costi possono rapidamente aumentare se non si presta attenzione alla gestione delle risorse.
+ In generale, comunque, è un buon strumento per aziende di grandi dimensioni.

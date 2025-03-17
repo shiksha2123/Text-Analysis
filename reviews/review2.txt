@@ -1,0 +1,4 @@
+Azure de Microsoft tiene muchas funcionalidades útiles, sobre todo en términos de escalabilidad y seguridad. 
+Sin embargo, la curva de aprendizaje es bastante pronunciada y algunos de los servicios no siempre funcionan como se espera. 
+Además, los costos pueden ser bastante elevados dependiendo del uso. 
+A pesar de todo, es una opción sólida si se sabe cómo aprovechar sus capacidades.
